@@ -10,6 +10,6 @@ O aplicativo exibe os itens comercializados pelo restaurante e gerencia o carrin
 
 compras do usuário. O usuário tem acesso ao cardápio do restaurante e escolhe os itens
 
-(com respectivas quantidades) que deseja e informa o preço do produto.
+(com respectivas quantidades) que deseja e vê preço do produto.
 
 O App mantém um histórico dos pedidos realizados e registra a data.
